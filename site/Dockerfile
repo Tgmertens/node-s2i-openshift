@@ -1,4 +1,4 @@
-FROM node:10-slim
+FROM node:10-Tom Mertens
   
 USER node
 
